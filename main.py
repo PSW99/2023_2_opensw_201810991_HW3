@@ -11,7 +11,7 @@ def set_event_loop_policy():
         asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 
 def main():
-    bot_token = "6455259880:AAH0iMxCwo0rMdctG6EPyYTLonfJvFfRlZs"
+    bot_token = "???"
 
     set_event_loop_policy()
 
